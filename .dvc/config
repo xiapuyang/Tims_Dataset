@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/sharp/Library/CloudStorage/OneDrive-UniversityofWaterloo/Group4_SYDE_770_A2/dvc_storage
