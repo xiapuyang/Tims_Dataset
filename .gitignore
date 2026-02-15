@@ -1,3 +1,6 @@
 .DS_Store
 /images
 logs
+*.zip
+analysis_cache.json
+analysis_embeddings.npz
