@@ -1,0 +1,6 @@
+path: .
+train: images
+val: images # Dummy split to satisfy FiftyOne importer
+names:
+  0: timmies
+  1: cup
