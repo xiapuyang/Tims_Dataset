@@ -4,3 +4,4 @@ logs
 *.zip
 analysis_cache.json
 analysis_embeddings.npz
+/tb_20260225_163503
