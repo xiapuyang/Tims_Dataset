@@ -41686,5 +41686,2237 @@
     "tags": [
       "augmentation"
     ]
+  },
+  "-100_5047_4ef0570b_aug0227.jpg": {
+    "hash": "4ef0570b8d340a4e2da7f240d7e4ae45",
+    "size": 727239,
+    "mtime": 1772473447.3365145,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5047_4ef0570b_aug0227.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5050_9749dde3_aug0402.jpg": {
+    "hash": "9749dde3dc74dda16c8367464ed86084",
+    "size": 2052536,
+    "mtime": 1772473649.4780025,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5050_9749dde3_aug0402.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5050_e156e80a_aug0384.jpg": {
+    "hash": "e156e80a7ba67efed7818f1f357cddba",
+    "size": 2001202,
+    "mtime": 1772473640.3540878,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5050_e156e80a_aug0384.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5051_63ea6cbe_aug0136.jpg": {
+    "hash": "63ea6cbe0b2afe47be958f23393a72c9",
+    "size": 1603532,
+    "mtime": 1772473419.7266393,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5051_63ea6cbe_aug0136.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5052_f5fd5e4b_aug0006.jpg": {
+    "hash": "f5fd5e4bdabeeba0fc0ee71c52735677",
+    "size": 1599209,
+    "mtime": 1772473365.2227862,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5052_f5fd5e4b_aug0006.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5055_08741fb3_aug0036.jpg": {
+    "hash": "08741fb3391afab954fac21a895bde3d",
+    "size": 1650787,
+    "mtime": 1772473374.7095792,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5055_08741fb3_aug0036.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5056_9cef3b9b_aug0130.jpg": {
+    "hash": "9cef3b9b985287c837f8fd99833afb80",
+    "size": 2000721,
+    "mtime": 1772473418.2792165,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5056_9cef3b9b_aug0130.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5058_1b873bbd_aug0147.jpg": {
+    "hash": "1b873bbd15cb09c9cf6694269b63edec",
+    "size": 1641596,
+    "mtime": 1772473421.7138875,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5058_1b873bbd_aug0147.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5058_90424acb_aug0158.jpg": {
+    "hash": "90424acb0b1f0f87ce8de5c5aded6ac5",
+    "size": 1598886,
+    "mtime": 1772473424.4491959,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5058_90424acb_aug0158.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-100_5058_fb99b653_aug0169.jpg": {
+    "hash": "fb99b653d5b163f27a441d5805c43a3b",
+    "size": 1802010,
+    "mtime": 1772473426.7606049,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-100_5058_fb99b653_aug0169.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5051_03e9bc01_aug0371.jpg": {
+    "hash": "03e9bc0138b67c6b994e2f21bee337c2",
+    "size": 2020584,
+    "mtime": 1772473633.3511074,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5051_03e9bc01_aug0371.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5051_0b099ec2_aug0120.jpg": {
+    "hash": "0b099ec2b0cb129a01bacd2e8eabd084",
+    "size": 1658641,
+    "mtime": 1772473416.0267916,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5051_0b099ec2_aug0120.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5051_b2880783_aug0154.jpg": {
+    "hash": "b2880783634e5e401c6b7bafdcbdc08a",
+    "size": 1718080,
+    "mtime": 1772473423.117672,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5051_b2880783_aug0154.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5051_ea1c9a60_aug0405.jpg": {
+    "hash": "ea1c9a6067179c91cdfbc3d357af6352",
+    "size": 2054484,
+    "mtime": 1772473651.9043937,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5051_ea1c9a60_aug0405.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5059_000edf82_aug0119.jpg": {
+    "hash": "000edf824469971931fdd15273396cc2",
+    "size": 1856568,
+    "mtime": 1772473415.7980185,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5059_000edf82_aug0119.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5059_9317094d_aug0165.jpg": {
+    "hash": "9317094db29a0c5d81644de6715093dc",
+    "size": 1840077,
+    "mtime": 1772473425.9741173,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5059_9317094d_aug0165.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5059_9872a960_aug0145.jpg": {
+    "hash": "9872a96061eb6c81bd15c219d0e13f66",
+    "size": 1801644,
+    "mtime": 1772473421.1882205,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5059_9872a960_aug0145.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-50_5466_1a50754d_aug0186.jpg": {
+    "hash": "1a50754dd7603590ee3832ceba428c1f",
+    "size": 1647799,
+    "mtime": 1772473432.8598835,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-50_5466_1a50754d_aug0186.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-Canada150 Coffee Cup (36706388951)_651af974_aug0046.jpg": {
+    "hash": "651af97401bb990c44a6a87e463f25bf",
+    "size": 199800,
+    "mtime": 1772473379.315569,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-Canada150 Coffee Cup (36706388951)_651af974_aug0046.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "-Canada150 Coffee Cup (36706388951)_9a8385e0_aug0041.jpg": {
+    "hash": "9a8385e014cc0a5ad2585c4363792bd2",
+    "size": 193913,
+    "mtime": 1772473375.9104362,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/-Canada150 Coffee Cup (36706388951)_9a8385e0_aug0041.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5046_43e9aabe_aug0015.jpg": {
+    "hash": "43e9aabedddcc421f432d9173794a841",
+    "size": 1596521,
+    "mtime": 1772473367.1636229,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5046_43e9aabe_aug0015.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5046_db1ee0d4_aug0195.jpg": {
+    "hash": "db1ee0d4717c7c971b2a96ead7371e90",
+    "size": 1411114,
+    "mtime": 1772473436.6071715,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5046_db1ee0d4_aug0195.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5047_c7370e7a_aug0210.jpg": {
+    "hash": "c7370e7a22773f9d2a5619f78dddc446",
+    "size": 2098322,
+    "mtime": 1772473440.7136548,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5047_c7370e7a_aug0210.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5047_ef902e21_aug0189.jpg": {
+    "hash": "ef902e2190a29600ddb76442278d0159",
+    "size": 2057401,
+    "mtime": 1772473434.0766623,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5047_ef902e21_aug0189.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5047_fcd69a50_aug0191.jpg": {
+    "hash": "fcd69a5019d3fed13cd9af50673445b6",
+    "size": 2050052,
+    "mtime": 1772473434.7562573,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5047_fcd69a50_aug0191.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5051_8cdf38f7_aug0141.jpg": {
+    "hash": "8cdf38f7ced6cb742a7f8c32a6b0d0ea",
+    "size": 1641451,
+    "mtime": 1772473420.4539466,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5051_8cdf38f7_aug0141.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5057_861635a0_aug0148.jpg": {
+    "hash": "861635a0c5042881c2b835bdd4c2326f",
+    "size": 1629243,
+    "mtime": 1772473421.9451673,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5057_861635a0_aug0148.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "100_5057_95b300bf_aug0150.jpg": {
+    "hash": "95b300bfce48080283502a4763eb82c0",
+    "size": 1515422,
+    "mtime": 1772473422.3903656,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/100_5057_95b300bf_aug0150.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "140701155049-coffee-cup-stats_dfff2080_aug0258.jpg": {
+    "hash": "dfff2080700008569c41752a78749613",
+    "size": 110433,
+    "mtime": 1772473565.2882714,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/140701155049-coffee-cup-stats_dfff2080_aug0258.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "1EWD8lxK9Ro_BmiFB2I7ymA_dfbb2cca_aug0184.jpeg": {
+    "hash": "dfbb2cca17b1275e8f6e6c3194da1832",
+    "size": 179962,
+    "mtime": 1772473431.387824,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/1EWD8lxK9Ro_BmiFB2I7ymA_dfbb2cca_aug0184.jpeg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5046_27380c2d_aug0188.jpg": {
+    "hash": "27380c2d7295bac6045f83c31a74bbb9",
+    "size": 2067726,
+    "mtime": 1772473433.5270336,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5046_27380c2d_aug0188.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5046_9f48753b_aug0014.jpg": {
+    "hash": "9f48753b839c0d7112791e114ccf0f8b",
+    "size": 1605648,
+    "mtime": 1772473366.8953645,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5046_9f48753b_aug0014.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5046_cc244b87_aug0212.jpg": {
+    "hash": "cc244b87c02a628a05af273baf62a01b",
+    "size": 2048508,
+    "mtime": 1772473441.0308821,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5046_cc244b87_aug0212.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5047_1f0518c5_aug0225.jpg": {
+    "hash": "1f0518c51dbfdbba3fc35289ab3e4735",
+    "size": 736720,
+    "mtime": 1772473446.4921646,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5047_1f0518c5_aug0225.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5047_61ebb23e_aug0237.jpg": {
+    "hash": "61ebb23e1cc2c6275f17097dfb3a2aa2",
+    "size": 746235,
+    "mtime": 1772473450.4133556,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5047_61ebb23e_aug0237.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5054_f7547dd0_aug0183.jpg": {
+    "hash": "f7547dd04311fb993df3ca4a1a977fbb",
+    "size": 1974154,
+    "mtime": 1772473431.0118756,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5054_f7547dd0_aug0183.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5055_f740fc81_aug0021.jpg": {
+    "hash": "f740fc8187c023b2cfdefe5aa6634c96",
+    "size": 859306,
+    "mtime": 1772473369.2091594,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5055_f740fc81_aug0021.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5059_76cb72c2_aug0143.jpg": {
+    "hash": "76cb72c2abd0900e07497ee2fe5dba1e",
+    "size": 1669054,
+    "mtime": 1772473420.7302501,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5059_76cb72c2_aug0143.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "50_5059_e358afc9_aug0144.jpg": {
+    "hash": "e358afc9395351556d6160749c7349c8",
+    "size": 1710158,
+    "mtime": 1772473420.9662664,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/50_5059_e358afc9_aug0144.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7931_0025_7e5344c9_aug0175.jpg": {
+    "hash": "7e5344c98d16650a04701e6682938017",
+    "size": 452683,
+    "mtime": 1772473428.6499028,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7931_0025_7e5344c9_aug0175.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7936_0063_9ffbedee_aug0202.jpg": {
+    "hash": "9ffbedeec30a851fb88e3fa8247ee70b",
+    "size": 243308,
+    "mtime": 1772473438.3268502,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7936_0063_9ffbedee_aug0202.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7936_0063_fd16b512_aug0211.jpg": {
+    "hash": "fd16b5128bc8aca45d26a0e34b0e1cce",
+    "size": 238651,
+    "mtime": 1772473440.7785697,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7936_0063_fd16b512_aug0211.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7946_0001_7b1be69d_aug0230.jpg": {
+    "hash": "7b1be69d74be3b5f0120e386fb763bee",
+    "size": 253971,
+    "mtime": 1772473448.1800086,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7946_0001_7b1be69d_aug0230.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7946_0001_86ad9d30_aug0240.jpg": {
+    "hash": "86ad9d308b171fb1438b12d454da0f22",
+    "size": 239987,
+    "mtime": 1772473472.7617168,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7946_0001_86ad9d30_aug0240.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7946_0005_0e242c52_aug0283.jpg": {
+    "hash": "0e242c52dc14d9ca9f28bbf3fbbd900c",
+    "size": 400144,
+    "mtime": 1772473585.3984613,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7946_0005_0e242c52_aug0283.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7946_0005_b653642d_aug0268.jpg": {
+    "hash": "b653642d00d67cccda6c69f8c67bafb4",
+    "size": 426396,
+    "mtime": 1772473575.2989597,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7946_0005_b653642d_aug0268.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7946_0005_cbdf0d9a_aug0281.jpg": {
+    "hash": "cbdf0d9ad13b87dc26571a134182b087",
+    "size": 392656,
+    "mtime": 1772473584.62649,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7946_0005_cbdf0d9a_aug0281.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7946_0006_89c7aa7b_aug0261.jpg": {
+    "hash": "89c7aa7b3eacaf6490ca4e4d55f3ff3b",
+    "size": 444412,
+    "mtime": 1772473568.9075623,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7946_0006_89c7aa7b_aug0261.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7984_0005_20b3339d_aug0213.jpg": {
+    "hash": "20b3339d84179f75dad869f0e58bb3ff",
+    "size": 463697,
+    "mtime": 1772473441.1288157,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7984_0005_20b3339d_aug0213.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7984_0010_38cb4545_aug0205.jpg": {
+    "hash": "38cb454554aca7bf2ba3ed1c8eae71bc",
+    "size": 431408,
+    "mtime": 1772473438.9937088,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7984_0010_38cb4545_aug0205.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7984_0010_d6d2e8f4_aug0208.jpg": {
+    "hash": "d6d2e8f4e5303e770c6344e2ff6bd74c",
+    "size": 452872,
+    "mtime": 1772473440.1227462,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7984_0010_d6d2e8f4_aug0208.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7998_0003_45e6819d_aug0207.jpg": {
+    "hash": "45e6819ddfa13d1dc7ea1118b26c20c0",
+    "size": 402701,
+    "mtime": 1772473439.7788465,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7998_0003_45e6819d_aug0207.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "7998_0003_f82833a1_aug0176.jpg": {
+    "hash": "f82833a19421b2f1c04d50661c3f6aeb",
+    "size": 426584,
+    "mtime": 1772473428.72305,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/7998_0003_f82833a1_aug0176.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Disposable soda cup from District Taco_137bb73d_aug0243.jpg": {
+    "hash": "137bb73df0bdcec2f8576326eacdc08b",
+    "size": 252735,
+    "mtime": 1772473544.772683,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Disposable soda cup from District Taco_137bb73d_aug0243.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5046_0bed7c37_aug0180.JPG": {
+    "hash": "0bed7c37055118cea34e736bf1aa6cd6",
+    "size": 2021062,
+    "mtime": 1772473429.7302039,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5046_0bed7c37_aug0180.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5046_d3a6b81f_aug0198.JPG": {
+    "hash": "d3a6b81f0a4264c070f9a741862cae98",
+    "size": 2023140,
+    "mtime": 1772473437.783346,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5046_d3a6b81f_aug0198.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5054_c0db8f83_aug0234.jpg": {
+    "hash": "c0db8f839616e9b422952ad8a7cc2d0d",
+    "size": 545290,
+    "mtime": 1772473449.6683779,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5054_c0db8f83_aug0234.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5220_0ff0c974_aug0346.JPG": {
+    "hash": "0ff0c974a73b0b38329a5c6b85935416",
+    "size": 2069222,
+    "mtime": 1772473624.749904,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5220_0ff0c974_aug0346.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5220_8ae5b678_aug0387.JPG": {
+    "hash": "8ae5b678064e71c71914bb4a2baeca4d",
+    "size": 2050296,
+    "mtime": 1772473642.295556,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5220_8ae5b678_aug0387.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5221_91f2b6b9_aug0350.JPG": {
+    "hash": "91f2b6b954583cd5d840200549a9f2de",
+    "size": 1969083,
+    "mtime": 1772473625.9677184,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5221_91f2b6b9_aug0350.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5224_acc1e48d_aug0229.JPG": {
+    "hash": "acc1e48da809daab3fd7f5d1e1d3590f",
+    "size": 577130,
+    "mtime": 1772473447.8977568,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5224_acc1e48d_aug0229.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5232_63029cd9_aug0223.JPG": {
+    "hash": "63029cd9d033a31e01804d2fe51fdc8c",
+    "size": 732869,
+    "mtime": 1772473445.8687196,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5232_63029cd9_aug0223.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5241_22217613_aug0353.JPG": {
+    "hash": "222176130349375a39173c3676a6b150",
+    "size": 1864019,
+    "mtime": 1772473627.0690186,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5241_22217613_aug0353.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5243_2c2a2c60_aug0153.JPG": {
+    "hash": "2c2a2c608d0de9504e7cd2833b5b2d2f",
+    "size": 1429809,
+    "mtime": 1772473422.896267,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5243_2c2a2c60_aug0153.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5245_38ed35db_aug0118.JPG": {
+    "hash": "38ed35db9e9bd22e2acac1bcfbf1ce54",
+    "size": 1448857,
+    "mtime": 1772473415.2131882,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5245_38ed35db_aug0118.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5245_73abe40a_aug0163.JPG": {
+    "hash": "73abe40a05e25c814c859f7e5e66f98b",
+    "size": 1403407,
+    "mtime": 1772473425.560717,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5245_73abe40a_aug0163.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5245_76e1526a_aug0164.JPG": {
+    "hash": "76e1526a6fa5cea8709280a52b8f6ec7",
+    "size": 1463091,
+    "mtime": 1772473425.7678573,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5245_76e1526a_aug0164.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5245_799e7068_aug0347.JPG": {
+    "hash": "799e706893fec9f52ef1f14948db4977",
+    "size": 1862652,
+    "mtime": 1772473625.0390215,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5245_799e7068_aug0347.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5250_094585e4_aug0053.JPG": {
+    "hash": "094585e40ad1950713f74e2e26e0f556",
+    "size": 963228,
+    "mtime": 1772473382.5806751,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5250_094585e4_aug0053.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5250_c4d55ea2_aug0101.JPG": {
+    "hash": "c4d55ea21a261cd3501d755becb6bf6c",
+    "size": 961845,
+    "mtime": 1772473403.5669959,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5250_c4d55ea2_aug0101.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5261_16b6fa50_aug0361.JPG": {
+    "hash": "16b6fa50a4f06f174e7f3dd1bf9fa33e",
+    "size": 1849966,
+    "mtime": 1772473629.4722202,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5261_16b6fa50_aug0361.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5261_57088ea4_aug0367.JPG": {
+    "hash": "57088ea44b564798a1ce2da21dfb2c43",
+    "size": 1852130,
+    "mtime": 1772473632.10404,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5261_57088ea4_aug0367.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5261_67471a0e_aug0146.JPG": {
+    "hash": "67471a0eb7627709bf2ecbb3a0d21cea",
+    "size": 1470582,
+    "mtime": 1772473421.440595,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5261_67471a0e_aug0146.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5261_807358a3_aug0395.JPG": {
+    "hash": "807358a32f748a46ef5f802450f388b8",
+    "size": 1879658,
+    "mtime": 1772473645.556319,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5261_807358a3_aug0395.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5261_f42b313f_aug0393.JPG": {
+    "hash": "f42b313f2981ba5c63bfe115acd77f86",
+    "size": 1879493,
+    "mtime": 1772473644.4636283,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5261_f42b313f_aug0393.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5268_c45af47a_aug0272.JPG": {
+    "hash": "c45af47a0114c63201251880d55b8b39",
+    "size": 1558129,
+    "mtime": 1772473577.123959,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5268_c45af47a_aug0272.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5269_7c6d4dbf_aug0093.JPG": {
+    "hash": "7c6d4dbfe53c4991a11c7c68eaef6721",
+    "size": 913559,
+    "mtime": 1772473398.1587882,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5269_7c6d4dbf_aug0093.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5270_74bae854_aug0096.JPG": {
+    "hash": "74bae854005d943dc87bf783352c22d4",
+    "size": 841570,
+    "mtime": 1772473399.0385382,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5270_74bae854_aug0096.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5270_e9d9a4c1_aug0089.JPG": {
+    "hash": "e9d9a4c171712df669036dc2eb04f7ff",
+    "size": 791134,
+    "mtime": 1772473396.7854886,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5270_e9d9a4c1_aug0089.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5270_fb3e3966_aug0070.JPG": {
+    "hash": "fb3e39664386601d076bb7694030d34c",
+    "size": 840832,
+    "mtime": 1772473388.5438898,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5270_fb3e3966_aug0070.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5271_c4dbf0c5_aug0231.JPG": {
+    "hash": "c4dbf0c5f496efeca08177c43d242879",
+    "size": 620003,
+    "mtime": 1772473448.4130518,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5271_c4dbf0c5_aug0231.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5275_5a4e37cc_aug0160.JPG": {
+    "hash": "5a4e37cc96712a2da6a84e6f85c8a2fe",
+    "size": 1631826,
+    "mtime": 1772473425.0362856,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5275_5a4e37cc_aug0160.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5276_3c8f4c5f_aug0172.JPG": {
+    "hash": "3c8f4c5f16f44d4d87c58906df22de7b",
+    "size": 1469997,
+    "mtime": 1772473427.4707239,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5276_3c8f4c5f_aug0172.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5276_72a439a9_aug0156.JPG": {
+    "hash": "72a439a9ed1300ed9d692dd3698de982",
+    "size": 1436349,
+    "mtime": 1772473423.5276206,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5276_72a439a9_aug0156.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5277_3a7090fe_aug0017.JPG": {
+    "hash": "3a7090fed6a75049a3074948acb82c41",
+    "size": 876383,
+    "mtime": 1772473367.4383786,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5277_3a7090fe_aug0017.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5277_4e0fc7be_aug0219.JPG": {
+    "hash": "4e0fc7bee36efc42cc5350d2854c5926",
+    "size": 2281403,
+    "mtime": 1772473443.0329952,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5277_4e0fc7be_aug0219.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5277_886da2cf_aug0069.JPG": {
+    "hash": "886da2cfd6640ba8f0681d26e32cf6a4",
+    "size": 876258,
+    "mtime": 1772473388.2295978,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5277_886da2cf_aug0069.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5277_f33f9bea_aug0192.JPG": {
+    "hash": "f33f9bea0ba3bd1392e4997f690884b8",
+    "size": 2288293,
+    "mtime": 1772473435.0134988,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5277_f33f9bea_aug0192.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5282_28fccfd9_aug0129.JPG": {
+    "hash": "28fccfd9f0274934802ee348a334196c",
+    "size": 1925070,
+    "mtime": 1772473418.0266798,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5282_28fccfd9_aug0129.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5282_66c8fb80_aug0126.JPG": {
+    "hash": "66c8fb803ed5fc2103d3d7cd9d5dc547",
+    "size": 1865487,
+    "mtime": 1772473417.5401945,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5282_66c8fb80_aug0126.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5282_fb920fb5_aug0115.JPG": {
+    "hash": "fb920fb581bfdfa2c778da64227fe502",
+    "size": 1894098,
+    "mtime": 1772473414.5689087,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5282_fb920fb5_aug0115.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5299_a08a63df_aug0398.JPG": {
+    "hash": "a08a63df7c57983dfb4144d3942c6a3d",
+    "size": 2033459,
+    "mtime": 1772473647.084508,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5299_a08a63df_aug0398.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5299_a2210c8f_aug0375.JPG": {
+    "hash": "a2210c8f99920ca6fffb5a356ca10fa2",
+    "size": 2032710,
+    "mtime": 1772473635.2117999,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5299_a2210c8f_aug0375.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5302_6fa7fe46_aug0392.JPG": {
+    "hash": "6fa7fe4672f42479b79a8b2ff61f6fa0",
+    "size": 1995574,
+    "mtime": 1772473644.130024,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5302_6fa7fe46_aug0392.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5302_fb410d8a_aug0354.JPG": {
+    "hash": "fb410d8ac8b6500496ededdf1f5de889",
+    "size": 1995336,
+    "mtime": 1772473627.4129999,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5302_fb410d8a_aug0354.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5310_9df601c2_aug0167.JPG": {
+    "hash": "9df601c20f21ab0db2c25d84711f35e5",
+    "size": 1541425,
+    "mtime": 1772473426.4234118,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5310_9df601c2_aug0167.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5314_e780e1e5_aug0149.JPG": {
+    "hash": "e780e1e5137b87452512422e47f920d9",
+    "size": 1798697,
+    "mtime": 1772473422.1581473,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5314_e780e1e5_aug0149.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5315_529a237a_aug0363.JPG": {
+    "hash": "529a237a0be59875dc6440c5b2c7e9db",
+    "size": 2164975,
+    "mtime": 1772473630.6444895,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5315_529a237a_aug0363.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5330_ad733614_aug0221.JPG": {
+    "hash": "ad733614825d08b8abc8eaacb2412f7b",
+    "size": 557628,
+    "mtime": 1772473444.8279047,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5330_ad733614_aug0221.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5337_4ceebd21_aug0235.JPG": {
+    "hash": "4ceebd218d0074b4a8a37c7efbabb109",
+    "size": 584291,
+    "mtime": 1772473449.8783765,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5337_4ceebd21_aug0235.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5338_c317f68c_aug0222.JPG": {
+    "hash": "c317f68c35ced94c3c77642bc9d8e0a4",
+    "size": 486804,
+    "mtime": 1772473445.2956529,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5338_c317f68c_aug0222.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5359_0b467f8c_aug0382.JPG": {
+    "hash": "0b467f8c67041af6ebf1a6760eb55c34",
+    "size": 1803318,
+    "mtime": 1772473638.2977645,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5359_0b467f8c_aug0382.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5362_a076f061_aug0171.JPG": {
+    "hash": "a076f061328737322a48cc17751a28d2",
+    "size": 1682072,
+    "mtime": 1772473427.2613137,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5362_a076f061_aug0171.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5362_debddbdd_aug0133.JPG": {
+    "hash": "debddbddc99a0fb8ea8a9a6761ec0508",
+    "size": 1645013,
+    "mtime": 1772473419.043881,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5362_debddbdd_aug0133.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5363_ccddde47_aug0372.JPG": {
+    "hash": "ccddde477b61751f52b4c7b2ac1cb5dc",
+    "size": 1931563,
+    "mtime": 1772473634.0460954,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5363_ccddde47_aug0372.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5369_7411f296_aug0397.JPG": {
+    "hash": "7411f2960f0d7208d10d4ae30160ee0d",
+    "size": 1959148,
+    "mtime": 1772473646.7253196,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5369_7411f296_aug0397.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5374_74ead41b_aug0116.JPG": {
+    "hash": "74ead41bb43f6e2ef0de3c8a0ee3c521",
+    "size": 1732937,
+    "mtime": 1772473414.7918837,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5374_74ead41b_aug0116.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5374_cbd8ca6f_aug0117.JPG": {
+    "hash": "cbd8ca6f2d3c7778e0d320c2ea7bace9",
+    "size": 1725114,
+    "mtime": 1772473415.0016956,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5374_cbd8ca6f_aug0117.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5374_e245f719_aug0152.JPG": {
+    "hash": "e245f719b1f376e1b4edd4767c4f12d8",
+    "size": 1710297,
+    "mtime": 1772473422.6710212,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5374_e245f719_aug0152.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5381_7ff524f9_aug0008.JPG": {
+    "hash": "7ff524f9aeab4dd977eadda432ca5757",
+    "size": 1370874,
+    "mtime": 1772473365.6538694,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5381_7ff524f9_aug0008.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5381_afe9529b_aug0020.JPG": {
+    "hash": "afe9529b3e2cc712043dd14d99ec33cb",
+    "size": 1477608,
+    "mtime": 1772473368.455503,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5381_afe9529b_aug0020.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5388_4d4112f0_aug0286.JPG": {
+    "hash": "4d4112f01cef971ad5ce8e9928fc622a",
+    "size": 1681273,
+    "mtime": 1772473588.9511395,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5388_4d4112f0_aug0286.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5388_7e9cd51a_aug0193.JPG": {
+    "hash": "7e9cd51a2e6e278f545cb302bc3515d1",
+    "size": 1873348,
+    "mtime": 1772473435.5371013,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5388_7e9cd51a_aug0193.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5388_ed4fe816_aug0216.JPG": {
+    "hash": "ed4fe8168bc90778a45a34e10db4e8ed",
+    "size": 1933942,
+    "mtime": 1772473442.1334026,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5388_ed4fe816_aug0216.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5399_baea3f68_aug0232.JPG": {
+    "hash": "baea3f6843f76717e37570f081f33c55",
+    "size": 745827,
+    "mtime": 1772473448.6740034,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5399_baea3f68_aug0232.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5404_2b22c962_aug0228.JPG": {
+    "hash": "2b22c9625b3c1c4d910a57f9c416c46f",
+    "size": 855227,
+    "mtime": 1772473447.634779,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5404_2b22c962_aug0228.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5441_30b9c894_aug0364.JPG": {
+    "hash": "30b9c89471db4b86a7a34bd072b27a62",
+    "size": 2302279,
+    "mtime": 1772473631.0625741,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5441_30b9c894_aug0364.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5441_4d2df6dd_aug0378.JPG": {
+    "hash": "4d2df6dde2b985424a6f94a49643c000",
+    "size": 2377286,
+    "mtime": 1772473637.2654233,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5441_4d2df6dd_aug0378.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5441_5067a9dd_aug0352.JPG": {
+    "hash": "5067a9dd973fa778006f36de5c0773ec",
+    "size": 2345790,
+    "mtime": 1772473626.6874943,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5441_5067a9dd_aug0352.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5441_82728844_aug0366.JPG": {
+    "hash": "8272884420b92a2d2461fe2c0bafb76c",
+    "size": 2374624,
+    "mtime": 1772473631.7407398,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5441_82728844_aug0366.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5547_227da58c_aug0233.JPG": {
+    "hash": "227da58c551dea370fb9361fd920415c",
+    "size": 718018,
+    "mtime": 1772473449.4623206,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5547_227da58c_aug0233.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5547_29e01744_aug0224.JPG": {
+    "hash": "29e01744430d85fa0c2568717bad718a",
+    "size": 703485,
+    "mtime": 1772473446.101442,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5547_29e01744_aug0224.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5580_318ffa7b_aug0066.JPG": {
+    "hash": "318ffa7b0f00e812eb63a15105be11ce",
+    "size": 1217906,
+    "mtime": 1772473387.253951,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5580_318ffa7b_aug0066.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5580_35cec459_aug0098.JPG": {
+    "hash": "35cec4596444640237dbbf6400ef3001",
+    "size": 1219222,
+    "mtime": 1772473401.0246089,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5580_35cec459_aug0098.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5580_e541aa93_aug0032.JPG": {
+    "hash": "e541aa934698c098307b0fac69e44b17",
+    "size": 1053379,
+    "mtime": 1772473372.9291422,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5580_e541aa93_aug0032.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5580_e68d1677_aug0043.JPG": {
+    "hash": "e68d16779a8f53f1bfc062116e04c941",
+    "size": 1046217,
+    "mtime": 1772473376.478176,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5580_e68d1677_aug0043.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "IMG_5589_426fe521_aug0246.JPG": {
+    "hash": "426fe5214acfe5c08bc8aeba981fe6ba",
+    "size": 2518259,
+    "mtime": 1772473549.7703724,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/IMG_5589_426fe521_aug0246.JPG",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Noah's Bagel Coffee Cup (15652697676)_92405532_aug0082.jpg": {
+    "hash": "92405532b49a0809005744ec0733d4dd",
+    "size": 274403,
+    "mtime": 1772473393.904348,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Noah's Bagel Coffee Cup (15652697676)_92405532_aug0082.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Noah's Bagel Coffee Cup (15652697676)_99752f7e_aug0027.jpg": {
+    "hash": "99752f7e3e981c360f2bf48388631926",
+    "size": 272957,
+    "mtime": 1772473371.0795336,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Noah's Bagel Coffee Cup (15652697676)_99752f7e_aug0027.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Noah's Bagel Coffee Cup (15652697676)_b5022e2a_aug0051.jpg": {
+    "hash": "b5022e2a1c0480dd8d846f7f721e4692",
+    "size": 240091,
+    "mtime": 1772473382.1194167,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Noah's Bagel Coffee Cup (15652697676)_b5022e2a_aug0051.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature01_0c9f86ba_aug0383.jpg": {
+    "hash": "0c9f86baf1e32aca3aa058ab01ea9fee",
+    "size": 4604217,
+    "mtime": 1772473638.646201,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature01_0c9f86ba_aug0383.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature01_420c4ea3_aug0356.jpg": {
+    "hash": "420c4ea3f43d4b387ff94c4c32e429c9",
+    "size": 3558504,
+    "mtime": 1772473628.0550294,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature01_420c4ea3_aug0356.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_06bcd28b_aug0351.jpg": {
+    "hash": "06bcd28be8eeda585b7992f418a3d0fd",
+    "size": 3659692,
+    "mtime": 1772473626.2874439,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_06bcd28b_aug0351.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_2ccb82ca_aug0404.jpg": {
+    "hash": "2ccb82ca97b55932ade74ab049a3aba6",
+    "size": 1552117,
+    "mtime": 1772473651.5242674,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_2ccb82ca_aug0404.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_4c4b2e6c_aug0159.jpg": {
+    "hash": "4c4b2e6cc83b9a2babe1cc68c0064fa8",
+    "size": 1748058,
+    "mtime": 1772473424.8202624,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_4c4b2e6c_aug0159.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_5d09ae86_aug0162.jpg": {
+    "hash": "5d09ae86233fa8545ecd708d0260e715",
+    "size": 821706,
+    "mtime": 1772473425.3005726,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_5d09ae86_aug0162.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_6a28bbd9_aug0135.jpg": {
+    "hash": "6a28bbd94aab49f2978f88df8d17450d",
+    "size": 849998,
+    "mtime": 1772473419.428283,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_6a28bbd9_aug0135.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_e1247ede_aug0355.jpg": {
+    "hash": "e1247ede653c929ae89b628e5396bf3b",
+    "size": 3547853,
+    "mtime": 1772473627.711544,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_e1247ede_aug0355.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_e9f241fe_aug0125.jpg": {
+    "hash": "e9f241fe642f4cc17eaf259fca8b8b9b",
+    "size": 1735427,
+    "mtime": 1772473417.3393054,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_e9f241fe_aug0125.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature02_edb6172a_aug0166.jpg": {
+    "hash": "edb6172aba851c5652fd4ce3552559c2",
+    "size": 1870263,
+    "mtime": 1772473426.2012417,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature02_edb6172a_aug0166.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature03_142c2938_aug0400.jpg": {
+    "hash": "142c2938e11e0f6cdb611639620a805b",
+    "size": 680911,
+    "mtime": 1772473648.5136836,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature03_142c2938_aug0400.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature03_e8fec341_aug0365.jpg": {
+    "hash": "e8fec34148c974c81ea552868f9286e1",
+    "size": 2113000,
+    "mtime": 1772473631.3546295,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature03_e8fec341_aug0365.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature04_3a800331_aug0386.jpg": {
+    "hash": "3a8003317f91f4dc72c78bf3318231e5",
+    "size": 3126428,
+    "mtime": 1772473641.5981758,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature04_3a800331_aug0386.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature04_6c46a5f9_aug0359.jpg": {
+    "hash": "6c46a5f91310cd11d950af82c72c103e",
+    "size": 1466674,
+    "mtime": 1772473628.5168705,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature04_6c46a5f9_aug0359.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Non_nature04_7234e629_aug0391.jpg": {
+    "hash": "7234e629f28a44602ab11f7b97810c85",
+    "size": 3148669,
+    "mtime": 1772473643.749877,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Non_nature04_7234e629_aug0391.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Paper cup from Jersey Mike's_0d4c011f_aug0073.jpg": {
+    "hash": "0d4c011fe3c7714182ce536522de631a",
+    "size": 238893,
+    "mtime": 1772473388.6506677,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Paper cup from Jersey Mike's_0d4c011f_aug0073.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Paper cup from Jersey Mike's_293a3e7d_aug0099.jpg": {
+    "hash": "293a3e7d079272aa1185241691aa0b7f",
+    "size": 238785,
+    "mtime": 1772473401.7686412,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Paper cup from Jersey Mike's_293a3e7d_aug0099.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Paper cup from Jersey Mike's_9961573b_aug0071.jpg": {
+    "hash": "9961573b8129aef274b517d76fbcf09a",
+    "size": 225532,
+    "mtime": 1772473388.593338,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Paper cup from Jersey Mike's_9961573b_aug0071.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Paper cup from Jersey Mike's_c71c6235_aug0031.jpg": {
+    "hash": "c71c6235ac336564f8a9b6ba5c993fea",
+    "size": 223596,
+    "mtime": 1772473372.199846,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Paper cup from Jersey Mike's_c71c6235_aug0031.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Paper-cups-contribute-to-environmental-pollution-1024x576_26c11ed9_aug0005.png": {
+    "hash": "26c11ed9386f0057d8a9016ce36c9a45",
+    "size": 178321,
+    "mtime": 1772473365.0403533,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Paper-cups-contribute-to-environmental-pollution-1024x576_26c11ed9_aug0005.png",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Paper-cups-contribute-to-environmental-pollution-1024x576_f320c749_aug0062.png": {
+    "hash": "f320c749485165ff57c1ac99f40c1bf2",
+    "size": 176943,
+    "mtime": 1772473385.46942,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Paper-cups-contribute-to-environmental-pollution-1024x576_f320c749_aug0062.png",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Soda cup, District Taco_0f98b187_aug0226.jpg": {
+    "hash": "0f98b187568f28d560556eed52ee506e",
+    "size": 82464,
+    "mtime": 1772473446.629588,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Soda cup, District Taco_0f98b187_aug0226.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Teriyaki Burger Set, at Lotteria_07563d2a_aug0061.jpg": {
+    "hash": "07563d2ae72e7b92156aabc062a9c553",
+    "size": 113845,
+    "mtime": 1772473384.9278288,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Teriyaki Burger Set, at Lotteria_07563d2a_aug0061.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Toyoko Inn, Kanazawa, Ishikawa, Japan (15669468168)_fcc5e4b6_aug0182.jpg": {
+    "hash": "fcc5e4b67976799791fbb4667606d6f0",
+    "size": 366732,
+    "mtime": 1772473430.71014,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Toyoko Inn, Kanazawa, Ishikawa, Japan (15669468168)_fcc5e4b6_aug0182.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Veggie burger burger king flickr user moe creative commons_3b0f3a13_aug0045.jpg": {
+    "hash": "3b0f3a13f3c0a11d44263ba228b56b89",
+    "size": 164951,
+    "mtime": 1772473377.4546742,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Veggie burger burger king flickr user moe creative commons_3b0f3a13_aug0045.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "Veggie burger burger king flickr user moe creative commons_65d6d64e_aug0087.jpg": {
+    "hash": "65d6d64e6954152e44dfafc2ded98388",
+    "size": 171815,
+    "mtime": 1772473395.3905425,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/Veggie burger burger king flickr user moe creative commons_65d6d64e_aug0087.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "White Persian cat beside a Rock and a paper cup_153edc90_aug0200.jpg": {
+    "hash": "153edc9073603364d3c2f208e2cd2460",
+    "size": 269196,
+    "mtime": 1772473437.9967115,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/White Persian cat beside a Rock and a paper cup_153edc90_aug0200.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "coffee-1840101_1280_17c86896_aug0057.jpg": {
+    "hash": "17c86896e120e2b260b3ed363ca50557",
+    "size": 109374,
+    "mtime": 1772473384.308043,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/coffee-1840101_1280_17c86896_aug0057.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "coffee-1840101_1280_620696cf_aug0028.jpg": {
+    "hash": "620696cfc56596b5b8f384ddd25a6e22",
+    "size": 108652,
+    "mtime": 1772473371.6275265,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/coffee-1840101_1280_620696cf_aug0028.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "coffee-1840101_1280_93997c6f_aug0022.jpg": {
+    "hash": "93997c6fc3e9ba8fad906fb2015ec65c",
+    "size": 100296,
+    "mtime": 1772473369.524135,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/coffee-1840101_1280_93997c6f_aug0022.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "coffee-cup-1743337_1280_1c0ef092_aug0199.png": {
+    "hash": "1c0ef0928b018f76624c91f24f036be2",
+    "size": 807155,
+    "mtime": 1772473437.9203446,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/coffee-cup-1743337_1280_1c0ef092_aug0199.png",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "disposable-plastic-cups-understanding-the-environmental-impact-and-finding-solutions-365440_2048x_5e3a2354_aug0102.jpg": {
+    "hash": "5e3a2354020850e6143fc14e8cbd6c5d",
+    "size": 86118,
+    "mtime": 1772473404.3481216,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/disposable-plastic-cups-understanding-the-environmental-impact-and-finding-solutions-365440_2048x_5e3a2354_aug0102.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_100_3bead012_aug0357.jpg": {
+    "hash": "3bead01221da30fd53b9ea58a3d3feb8",
+    "size": 147154,
+    "mtime": 1772473628.0953834,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_100_3bead012_aug0357.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_11_2e9a0e85_aug0376.jpg": {
+    "hash": "2e9a0e85f1353164660caf4d7aa7455c",
+    "size": 474093,
+    "mtime": 1772473636.4507575,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_11_2e9a0e85_aug0376.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_135_11141dd3_aug0197.jpg": {
+    "hash": "11141dd38ddf3c7bc082c964b3fb9231",
+    "size": 777990,
+    "mtime": 1772473437.4151304,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_135_11141dd3_aug0197.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_135_12d112e3_aug0218.jpg": {
+    "hash": "12d112e3f8c104e13f986d0dbdbf6e86",
+    "size": 779461,
+    "mtime": 1772473442.4646358,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_135_12d112e3_aug0218.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_140_0388588f_aug0155.jpg": {
+    "hash": "0388588f4437aa50f8fedc9e4241a76b",
+    "size": 112996,
+    "mtime": 1772473423.1514845,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_140_0388588f_aug0155.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_14_ad1814b8_aug0121.jpg": {
+    "hash": "ad1814b8e0b9e3e7e90f23efbd3e41b7",
+    "size": 612928,
+    "mtime": 1772473416.1079419,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_14_ad1814b8_aug0121.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_14_bb59ae29_aug0138.jpg": {
+    "hash": "bb59ae292b45b515f0349319a6ae9b91",
+    "size": 589266,
+    "mtime": 1772473419.884498,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_14_bb59ae29_aug0138.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_152_f030d2e8_aug0362.jpg": {
+    "hash": "f030d2e8a8b1b5d66b1da8dfb64121ac",
+    "size": 1115060,
+    "mtime": 1772473629.6134152,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_152_f030d2e8_aug0362.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_159_3ba22286_aug0123.jpg": {
+    "hash": "3ba22286679a676753d465b51ddd28f8",
+    "size": 644179,
+    "mtime": 1772473416.7142162,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_159_3ba22286_aug0123.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_159_628e36ca_aug0168.jpg": {
+    "hash": "628e36cabf6a60e98eec28ba5b498607",
+    "size": 648904,
+    "mtime": 1772473426.5251896,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_159_628e36ca_aug0168.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_159_7833563e_aug0358.jpg": {
+    "hash": "7833563e16582c093371536fa97a93c9",
+    "size": 809055,
+    "mtime": 1772473628.2517552,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_159_7833563e_aug0358.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_159_aac37038_aug0406.jpg": {
+    "hash": "aac37038ddfba4c8e7e506be870345bf",
+    "size": 833878,
+    "mtime": 1772473652.4106135,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_159_aac37038_aug0406.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_172_12dbdfc6_aug0002.jpg": {
+    "hash": "12dbdfc65a52d416f726922360bb88d6",
+    "size": 761620,
+    "mtime": 1772473364.158085,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_172_12dbdfc6_aug0002.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_172_adfc2265_aug0040.jpg": {
+    "hash": "adfc226586f0b16e6748deee32b3d9ab",
+    "size": 702507,
+    "mtime": 1772473375.6430326,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_172_adfc2265_aug0040.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_172_b9be3a48_aug0039.jpg": {
+    "hash": "b9be3a48cd8919c23737506263f9e595",
+    "size": 761331,
+    "mtime": 1772473375.3953407,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_172_b9be3a48_aug0039.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_188_1e626dcf_aug0068.jpg": {
+    "hash": "1e626dcf47ba4829c8053b81a3578177",
+    "size": 233884,
+    "mtime": 1772473387.7752209,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_188_1e626dcf_aug0068.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_188_c2b8b9f2_aug0037.jpg": {
+    "hash": "c2b8b9f2876bacef7e0521f84d3b9c15",
+    "size": 232170,
+    "mtime": 1772473375.0309377,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_188_c2b8b9f2_aug0037.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_188_fb5e1fc8_aug0009.jpg": {
+    "hash": "fb5e1fc84bf388482d4929b5c56949e9",
+    "size": 237479,
+    "mtime": 1772473365.7178004,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_188_fb5e1fc8_aug0009.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_202_1600c795_aug0086.jpg": {
+    "hash": "1600c7952be15b163e9ac48d5fec5ba0",
+    "size": 52854,
+    "mtime": 1772473394.8003888,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_202_1600c795_aug0086.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_202_1d464cc6_aug0023.jpg": {
+    "hash": "1d464cc6b372977af02a94fe2385bdf9",
+    "size": 53723,
+    "mtime": 1772473369.542761,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_202_1d464cc6_aug0023.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_202_3891d792_aug0072.jpg": {
+    "hash": "3891d792871b7725c247a3afd5ba7861",
+    "size": 47758,
+    "mtime": 1772473388.6151934,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_202_3891d792_aug0072.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_207_a596d161_aug0048.jpg": {
+    "hash": "a596d16116a245f07d0e4e805e98ea56",
+    "size": 258395,
+    "mtime": 1772473380.2406228,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_207_a596d161_aug0048.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_207_d6f6770e_aug0088.jpg": {
+    "hash": "d6f6770e0b7e5805bbed5ce020c91a48",
+    "size": 285796,
+    "mtime": 1772473396.663797,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_207_d6f6770e_aug0088.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_207_da09b069_aug0055.jpg": {
+    "hash": "da09b06929fd65e30967911871ba100d",
+    "size": 271873,
+    "mtime": 1772473383.1520972,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_207_da09b069_aug0055.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_209_01f41cad_aug0236.jpg": {
+    "hash": "01f41cad507d6721e8a94fee63643236",
+    "size": 481689,
+    "mtime": 1772473450.009776,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_209_01f41cad_aug0236.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_209_eca32769_aug0034.jpg": {
+    "hash": "eca3276979cb57b81a4a8c1c0d913e84",
+    "size": 1184467,
+    "mtime": 1772473374.0374002,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_209_eca32769_aug0034.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_210_34c7f16c_aug0064.jpg": {
+    "hash": "34c7f16c66e62669b5a85d3ccbda2584",
+    "size": 616441,
+    "mtime": 1772473386.9374018,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_210_34c7f16c_aug0064.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_30_3192a0b7_aug0396.jpg": {
+    "hash": "3192a0b7a8321c41a9ef2268df80c1fb",
+    "size": 926561,
+    "mtime": 1772473646.3542352,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_30_3192a0b7_aug0396.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_30_352e450f_aug0151.jpg": {
+    "hash": "352e450fd8490331734d7ef7294a7bb3",
+    "size": 560997,
+    "mtime": 1772473422.4703588,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_30_352e450f_aug0151.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_30_68544013_aug0122.jpg": {
+    "hash": "685440131c4ba214e1d5262333a8e0ea",
+    "size": 595086,
+    "mtime": 1772473416.1854455,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_30_68544013_aug0122.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_30_98ac3fa6_aug0124.jpg": {
+    "hash": "98ac3fa69418b4f2a3a42855f4cd08f5",
+    "size": 739894,
+    "mtime": 1772473416.8273249,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_30_98ac3fa6_aug0124.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_30_e34b90c1_aug0170.jpg": {
+    "hash": "e34b90c13af93a0c545192cde477e542",
+    "size": 572207,
+    "mtime": 1772473427.0436385,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_30_e34b90c1_aug0170.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_1fca667f_aug0161.jpg": {
+    "hash": "1fca667fc09f53b2c7d99d3e921be409",
+    "size": 134683,
+    "mtime": 1772473425.1289716,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_1fca667f_aug0161.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_22e88160_aug0389.jpg": {
+    "hash": "22e88160570b2f6f7111a04fdb6c5c92",
+    "size": 88302,
+    "mtime": 1772473642.789301,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_22e88160_aug0389.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_5fd4686e_aug0142.jpg": {
+    "hash": "5fd4686e07c6be717514ee1c6ab1fa34",
+    "size": 114067,
+    "mtime": 1772473420.4892807,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_5fd4686e_aug0142.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_6413f76b_aug0394.jpg": {
+    "hash": "6413f76b48258945423e4e0ad5c3d5af",
+    "size": 93245,
+    "mtime": 1772473644.5206761,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_6413f76b_aug0394.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_6d09359c_aug0127.jpg": {
+    "hash": "6d09359cd2cac29f6c9c9ea333635946",
+    "size": 78109,
+    "mtime": 1772473417.5796425,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_6d09359c_aug0127.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_71988532_aug0137.jpg": {
+    "hash": "71988532f4103b347a55ac5a37cbaa30",
+    "size": 79498,
+    "mtime": 1772473419.807937,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_71988532_aug0137.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_38_cd6f6a43_aug0157.jpg": {
+    "hash": "cd6f6a4335a9194261b94970dae65878",
+    "size": 78544,
+    "mtime": 1772473424.2141206,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_38_cd6f6a43_aug0157.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_45_c68aa27d_aug0140.jpg": {
+    "hash": "c68aa27d4056d0b6335e0c78c0db9eea",
+    "size": 317282,
+    "mtime": 1772473420.22941,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_45_c68aa27d_aug0140.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_4_365723b0_aug0348.jpg": {
+    "hash": "365723b0fd715be6a5ae01e7d3ea4484",
+    "size": 675331,
+    "mtime": 1772473625.158327,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_4_365723b0_aug0348.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_4_404ac226_aug0370.jpg": {
+    "hash": "404ac22658e72a315d70384efbec3eb4",
+    "size": 687990,
+    "mtime": 1772473632.984939,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_4_404ac226_aug0370.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_4_6a78e249_aug0349.jpg": {
+    "hash": "6a78e24994f93c4668688f4335da7e0d",
+    "size": 688633,
+    "mtime": 1772473625.271904,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_4_6a78e249_aug0349.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_54_a9bf158e_aug0380.jpg": {
+    "hash": "a9bf158e41fe6154f8be94983840683f",
+    "size": 762817,
+    "mtime": 1772473637.7040286,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_54_a9bf158e_aug0380.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_79_45444390_aug0131.jpg": {
+    "hash": "454443908cdb9b8fa5cb18050839f989",
+    "size": 791639,
+    "mtime": 1772473418.371728,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_79_45444390_aug0131.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_91_b91059db_aug0373.jpg": {
+    "hash": "b91059dbfc8948faf3d060f038a184c0",
+    "size": 961915,
+    "mtime": 1772473634.1644487,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_91_b91059db_aug0373.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_91_e57bb0c1_aug0388.jpg": {
+    "hash": "e57bb0c1cde086da32a23db9a27021a9",
+    "size": 961975,
+    "mtime": 1772473642.416664,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_91_e57bb0c1_aug0388.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "img_97_07e5c0cb_aug0381.jpg": {
+    "hash": "07e5c0cbc379609662a16da02a4d364e",
+    "size": 884680,
+    "mtime": 1772473637.8340929,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/img_97_07e5c0cb_aug0381.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_102_217ddc93_aug0345.jpg": {
+    "hash": "217ddc933cc784bc4877773e656efb96",
+    "size": 2252712,
+    "mtime": 1772473624.394366,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_102_217ddc93_aug0345.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_102_7bf104a1_aug0374.jpg": {
+    "hash": "7bf104a106c20ad69b6eb4066d0aa2cf",
+    "size": 2353838,
+    "mtime": 1772473634.5552433,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_102_7bf104a1_aug0374.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_103_d943d184_aug0094.jpg": {
+    "hash": "d943d18491896b33fa059585c8515501",
+    "size": 1371237,
+    "mtime": 1772473398.3171167,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_103_d943d184_aug0094.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_117_90bd6b02_aug0369.jpg": {
+    "hash": "90bd6b02523111d6c6ea102879d8acab",
+    "size": 1272345,
+    "mtime": 1772473632.5161614,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_117_90bd6b02_aug0369.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_134_5570517f_aug0403.jpg": {
+    "hash": "5570517ff4e52abe3fc8c851f33a5f08",
+    "size": 1332218,
+    "mtime": 1772473649.8373406,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_134_5570517f_aug0403.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_16_66558d2b_aug0004.jpg": {
+    "hash": "66558d2b028a56c847d0d7960b5ec45e",
+    "size": 1273834,
+    "mtime": 1772473364.9974394,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_16_66558d2b_aug0004.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_182_3d2ccbfc_aug0108.jpg": {
+    "hash": "3d2ccbfc13c20067600bca2f0e71b355",
+    "size": 1213638,
+    "mtime": 1772473408.3729644,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_182_3d2ccbfc_aug0108.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_188_04be9253_aug0007.jpg": {
+    "hash": "04be92535d1b98d2e2ed61242ba85bdc",
+    "size": 571589,
+    "mtime": 1772473365.444537,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_188_04be9253_aug0007.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_188_9e58e254_aug0264.jpg": {
+    "hash": "9e58e2540a1cee60442445aaf084c338",
+    "size": 1388497,
+    "mtime": 1772473570.7938063,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_188_9e58e254_aug0264.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_188_d1ece7d9_aug0025.jpg": {
+    "hash": "d1ece7d94fc59dd2f4317fe1f5a6583d",
+    "size": 586061,
+    "mtime": 1772473370.5499,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_188_d1ece7d9_aug0025.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_188_e6fe3e92_aug0019.jpg": {
+    "hash": "e6fe3e922296112efbcd1daa5b6146e8",
+    "size": 577979,
+    "mtime": 1772473367.7619116,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_188_e6fe3e92_aug0019.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_19_94acad0d_aug0204.jpg": {
+    "hash": "94acad0d94d17196803dc6ff480cd989",
+    "size": 1520239,
+    "mtime": 1772473438.9211364,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_19_94acad0d_aug0204.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_19_d5cf9fa7_aug0190.jpg": {
+    "hash": "d5cf9fa7706811d2dc1610075a18a346",
+    "size": 1731987,
+    "mtime": 1772473434.3357472,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_19_d5cf9fa7_aug0190.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_19_e152ab17_aug0080.jpg": {
+    "hash": "e152ab17154a06b26a45302e3e83c132",
+    "size": 1069848,
+    "mtime": 1772473392.7147152,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_19_e152ab17_aug0080.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_20_8091fcd3_aug0114.jpg": {
+    "hash": "8091fcd388db2a5d69f8074dee969b84",
+    "size": 2062594,
+    "mtime": 1772473414.3174944,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_20_8091fcd3_aug0114.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_20_d33fd079_aug0139.jpg": {
+    "hash": "d33fd079250fe38859079cc2116d4169",
+    "size": 2037295,
+    "mtime": 1772473420.1107469,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_20_d33fd079_aug0139.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_71_43222109_aug0001.jpg": {
+    "hash": "43222109d0d227fa322649d81256f1fa",
+    "size": 820431,
+    "mtime": 1772473363.774723,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_71_43222109_aug0001.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_71_7ebc8ce1_aug0010.jpg": {
+    "hash": "7ebc8ce1abde401b490528cb5fae33d7",
+    "size": 807920,
+    "mtime": 1772473365.8347397,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_71_7ebc8ce1_aug0010.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_71_85f090d5_aug0076.jpg": {
+    "hash": "85f090d5eebe84458bf2ad3ef3d78071",
+    "size": 792645,
+    "mtime": 1772473389.6603396,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_71_85f090d5_aug0076.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_71_ab359856_aug0013.jpg": {
+    "hash": "ab3598566f4f2519901753e0ed5a117a",
+    "size": 830215,
+    "mtime": 1772473366.6274395,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_71_ab359856_aug0013.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_92_175f6a8c_aug0049.jpg": {
+    "hash": "175f6a8cf76ceb05377da8d3aa58bada",
+    "size": 654987,
+    "mtime": 1772473381.2045403,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_92_175f6a8c_aug0049.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_92_489a53c2_aug0018.jpg": {
+    "hash": "489a53c2ed20021715d10afdd9bb6c6a",
+    "size": 661806,
+    "mtime": 1772473367.551872,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_92_489a53c2_aug0018.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "own_img_92_7b2cafbf_aug0174.jpg": {
+    "hash": "7b2cafbf54860a6a2cd130ca25015507",
+    "size": 1679260,
+    "mtime": 1772473428.5810199,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/own_img_92_7b2cafbf_aug0174.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "pexels-photo-580610_a0fb9b4d_aug0016.jpeg": {
+    "hash": "a0fb9b4d5e0feba27ac05991d7c2462a",
+    "size": 99099,
+    "mtime": 1772473367.191541,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/pexels-photo-580610_a0fb9b4d_aug0016.jpeg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "pexels-photo-580610_f1c61c02_aug0047.jpeg": {
+    "hash": "f1c61c02c4b8eb9ba0d978dc953aed5c",
+    "size": 100453,
+    "mtime": 1772473379.7221117,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/pexels-photo-580610_f1c61c02_aug0047.jpeg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "pexels-photo-7319226_c022fac9_aug0095.jpeg": {
+    "hash": "c022fac9a66cb9894d2f3f4cab0ba31f",
+    "size": 20795,
+    "mtime": 1772473398.351002,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/pexels-photo-7319226_c022fac9_aug0095.jpeg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "pexels-photo-7319226_df6f0515_aug0077.jpeg": {
+    "hash": "df6f0515d3ba4d8fb2968f56e4436b31",
+    "size": 21527,
+    "mtime": 1772473389.8542626,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/pexels-photo-7319226_df6f0515_aug0077.jpeg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "pexels-photo-834188_551268b1_aug0012.png": {
+    "hash": "551268b19958eb816574f515e643bcd0",
+    "size": 299471,
+    "mtime": 1772473366.1722078,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/pexels-photo-834188_551268b1_aug0012.png",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1568366817212-fbb6b35b403b_e35aa045_aug0220.jpg": {
+    "hash": "e35aa045a5acfd0bd69c7cae5c548359",
+    "size": 2679412,
+    "mtime": 1772473443.5151381,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1568366817212-fbb6b35b403b_e35aa045_aug0220.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1620219729343-f5b6d109aa4a_b74aed4d_aug0029.jpg": {
+    "hash": "b74aed4d1a473d6d158c64943faec678",
+    "size": 711824,
+    "mtime": 1772473372.0148988,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1620219729343-f5b6d109aa4a_b74aed4d_aug0029.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1620219729343-f5b6d109aa4a_f6653443_aug0035.jpg": {
+    "hash": "f6653443ed686e627c4b35ab7e4d9214",
+    "size": 786088,
+    "mtime": 1772473374.2949848,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1620219729343-f5b6d109aa4a_f6653443_aug0035.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1622988694543-75f56720ccde_ca550081_aug0097.jpg": {
+    "hash": "ca550081c1dbc7d474d5554863c1d4d0",
+    "size": 339222,
+    "mtime": 1772473400.1079018,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1622988694543-75f56720ccde_ca550081_aug0097.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1633434370256-48f1748d8ed6_1549c8e2_aug0050.jpg": {
+    "hash": "1549c8e2662429a9826c7835ed00e6bc",
+    "size": 358696,
+    "mtime": 1772473381.5856566,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1633434370256-48f1748d8ed6_1549c8e2_aug0050.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1633434370256-48f1748d8ed6_3f44841a_aug0058.jpg": {
+    "hash": "3f44841af2ecc1802e7ddabc455b31e9",
+    "size": 358855,
+    "mtime": 1772473384.4267612,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1633434370256-48f1748d8ed6_3f44841a_aug0058.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1651762774317-7c18cd444f8f_ab636bc7_aug0203.jpg": {
+    "hash": "ab636bc7fe99f451a82cc70af448ec56",
+    "size": 2114256,
+    "mtime": 1772473438.6742127,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1651762774317-7c18cd444f8f_ab636bc7_aug0203.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "photo-1687516834389-c421dcf0b1ad_6825f418_aug0187.jpg": {
+    "hash": "6825f418d8431bd0c3550c3d53d5b6e8",
+    "size": 1930132,
+    "mtime": 1772473433.2313979,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/photo-1687516834389-c421dcf0b1ad_6825f418_aug0187.jpg",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "starbucks-copycat-caramel-macchiato-ice-coffee_0ed39fd3_aug0238.webp": {
+    "hash": "0ed39fd34c21f19624184d9a8cfd1ce4",
+    "size": 29324,
+    "mtime": 1772473452.763862,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/starbucks-copycat-caramel-macchiato-ice-coffee_0ed39fd3_aug0238.webp",
+    "tags": [
+      "tb_20260302_124243"
+    ]
+  },
+  "starbucks-copycat-caramel-macchiato-ice-coffee_44b024e9_aug0239.webp": {
+    "hash": "44b024e9d939f64fd306d55f87e7076b",
+    "size": 29378,
+    "mtime": 1772473457.2381299,
+    "origin_path": "/Users/sharp/SYDE_770_Project/Tims_Dataset/images/train/starbucks-copycat-caramel-macchiato-ice-coffee_44b024e9_aug0239.webp",
+    "tags": [
+      "tb_20260302_124243"
+    ]
   }
 }
