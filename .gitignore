@@ -12,3 +12,4 @@ box_embeddings_cache_clip_vit_base32_torch.npz
 data/
 analysis_bias/
 analysis_correlation/
+/V3
