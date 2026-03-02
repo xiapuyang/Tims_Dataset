@@ -5,7 +5,6 @@ names:
 path: .
 train: 
   - images/train
-  - tb_20260302_124243
 val: images/val
 test: 
   - images/test       
